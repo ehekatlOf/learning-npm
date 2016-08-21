@@ -1,0 +1,14 @@
+{
+  "name": "npm_tutorial",
+  "version": "0.0.9",
+  "description": "learning NPM",
+  "main": "test.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": "blank"
+}
